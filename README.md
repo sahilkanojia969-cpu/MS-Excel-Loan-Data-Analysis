@@ -117,4 +117,4 @@ This dashboard enables:
 •	Data-driven credit policy decisions
 •	Improved lending strategy
 
-Dashboard Screenshot: 
+Dashboard Screenshot:  https://github.com/sahilkanojia969-cpu/MS-Excel-Loan-Data-Analysis/blob/main/Loan%20Dashboard.PNG
